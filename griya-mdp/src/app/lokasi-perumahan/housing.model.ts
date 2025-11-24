@@ -1,4 +1,3 @@
-
 export interface Housing {
   id: number;
   title: string;
